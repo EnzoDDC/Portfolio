@@ -1,28 +1,25 @@
-<h1>Portafolio</h1>
+# Portfolio
 
-Bienvenido a mi portafolio web Aquí encontrarás información sobre mis habilidades y proyectos personales en el ámbito del desarrollo web.
+Welcome to my web portfolio! Here you will find information about my skills and personal projects in the field of web development.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **HTML5**: Estructuración del contenido web.
-- **CSS3**: Estilización y diseño responsivo.
+- **HTML5**: Structuring web content.  
+- **CSS3**: Styling and responsive design.
 
-## Secciones del Portafolio
+## Portfolio Sections
 
-- **Inicio**: Una breve introducción sobre mí y mi pasión por el desarrollo web.
-- **Habilidades**: Lista de mis competencias técnicas y herramientas que manejo.
-- **Proyectos**: Muestra de mis trabajos más destacados con descripciones y enlaces.
+- **Home**: A brief introduction about me and my passion for web development.  
+- **Skills**: Showcase of the tools I work with.  
+- **Projects**: Display of my personal projects.
 
-## Proyectos Destacados
+## Featured Projects
 
-1. **Lista De Contactos**: Aplicación para gestionar contactos de manera eficiente.
-2. **Lista De Tareas**: Herramienta para organizar y seguir tareas pendientes.
+1. **Contact List**: An application for efficiently managing contacts.  
+2. **Task List**: A tool to organize and track pending tasks.
 
-## Contacto
+## Contact
+- **Email**: EnzoMiguel980@gmail.com
 
-Si deseas ponerte en contacto conmigo, puedes hacerlo a través de las siguientes plataformas:
+Thank you for visiting my portfolio!
 
-- **LinkedIn**: [Enlace a mi perfil](https://www.linkedin.com/in/enzodidomenico)
-- **Correo Electrónico**: enzodidomenico@example.com
-
-¡Gracias por visitar mi portafolio!
